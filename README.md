@@ -3,12 +3,16 @@
 Prezi: https://prezi.com/p/edit/ysu92emscofq/
 
 
-Overview
+**Overview**
 
-This research exercise was done in order to understand if we could create an model to build an investment portfolio that outperforms the S&P Broad Crypto Digital Market Index. Due to the expansive nature and sheer *large/massive* number of investable assets in the Crypto space, it can get quite complex, since there are many variables that need to be taken into account when investing. Our model and future platform, provide a safe option for investors to gain exposure to these markets while outperforming the *Main market index*/SPCBDM ? 
-_________________________________________________________________________________________________________________________________________________________________________
+This research exercise was done in order to understand if we could create an model to build an investment portfolio that outperforms the S&P Broad Crypto Digital Market Index. Due to the expansive nature and sheer *large/massive* number of investable assets in the Crypto space, it can get quite complex, since there are many variables that need to be taken into account when investing. Our model and future platform, provide a safe option for investors to gain exposure to these markets while **outperforming the *Main market index*/SPCBDM ? **
 
-Technologies
+Our idea was to understand if a combination of 2 sets of Crypto Assets produced better returns than just 1 set of Coins/Assets, without drastically increasing volatility and skewing the Risk profile of the portfolio.
+
+In addition to the old/famous/veteran coins that most people have heard of in the Cryptocurrency space, we wanted to see if Analyzing protocols in a rapidly growing DeFi sector provided some insights/value and improved our potential returns. DeFi is a rapidly growing sector within the CryptoCurrency space that has grown from about 500Million to 150Billion in 2 years. The crypto market as a whole has been in a downtrend for the better part of the last year and we wanted to see the effect of including some variety of undervalued coins into our portfolio and see what **findings we found??** (This last line needs to be changed/edited lol)  
+_______________________________________________________________________________________________________________________________________________________________________
+
+**Technologies**
 
 Our model utilizes Python (v 3.1.0) and the following libaries: 
 
@@ -30,13 +34,45 @@ Our model utilizes Python (v 3.1.0) and the following libaries:
 16. hvplot 
 ______________________________________________________________________________________________________________________________________________________________________
 
-Installation Guide
+**Installation Guide**
 
 Most of the libraries listed above were part of the base applications that were installed with the Python version listed above; However, there were some individual packages and API's that needed to be installed. One can reference the Pip Package Installation Website for further support:
 https://packaging.python.org/en/latest/tutorials/installing-packages/#ensure-you-can-run-python-from-the-command-line
 _______________________________________________________________________________________________________________________________________________________________________
+**Application of the Model: **
+
+Research: The first step of this process was to ensure that we utilized the relevant API's to provide us with our pricing information for the different cryptocurrencies. We used 3 API's throughout the research process: 
+  1. CoinMarketCap API: To access the coins for Coinset A (Veteran Coins)
+  2. DefiLlama API: To access the coins for Coinset B (DeFi Sector Coins)
+  3. Yahoo Finance API: To access the historical data for both Coinsets as well as the data for the SPCBDM Index.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+_______________________________________________________________________________________________________________________________________________________________________
+**Contributors & Duties: **
+
+Aarchit Malhotra:  
+Aliza Naqvi: 
+David Paquiot:
+Donte Thrasher:
+Kfir Bar: 
+_______________________________________________________________________________________________________________________________________________________________________
+
+**Licenses: **
+
+No licenses were used for this project
 
 
 
