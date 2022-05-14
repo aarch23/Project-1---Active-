@@ -41,14 +41,35 @@ https://packaging.python.org/en/latest/tutorials/installing-packages/#ensure-you
 _______________________________________________________________________________________________________________________________________________________________________
 **Application of the Model: **
 
-Research: The first step of this process was to ensure that we utilized the relevant API's to provide us with our pricing information for the different cryptocurrencies. We used 3 API's throughout the research process: 
+Research: 
+The first step of this process was to ensure that we utilized the relevant API's to provide us with our pricing information for the different cryptocurrencies. We used 3 API's throughout the research process: 
   1. CoinMarketCap API: To access the coins for Coinset A (Veteran Coins)
   2. DefiLlama API: To access the coins for Coinset B (DeFi Sector Coins)
   3. Yahoo Finance API: To access the historical data for both Coinsets as well as the data for the SPCBDM Index.
 
+Data Cleaning: Sorting out the Datasets to fit our filtering criteria and excluding all coins that do not fit the predefined parameters.
 
+Coinset A (Veteran Coins) Parameters: 
+1. Market Cap > $15 Billion
+2. Time in the market > 4 years --> 01.01.2018
 
+Coinset B (DeFi Coins) Parameters:
+1. Total Value Locked > $7 Billion
+2. Market Cap > $4.5 Billion
 
+For Coinset B: Further Calculations of Market Cap /Total Value Locked and Fully Dilluted Value / Total Value Locked to understand which coins were undervalued.
+
+Analysis: 
+
+We conducted analysis for Coinset A (Veteran Coins), Coinset B (DeFi Coins) & Coinset C (Combo of A + B) while comparing them to the SPCBDM Index 
+
+- Daily Returns
+- Cumulative Returns 
+- Sharpe Ratio
+- Standard Deviation
+- Correlation
+- BackTesting
+- MonteCarlo Simulation
 
 
 
