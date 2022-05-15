@@ -4,11 +4,11 @@ Prezi: https://prezi.com/p/edit/ysu92emscofq/
 
 **Overview**
 
-This research exercise was done in order to understand if we could create an model to build an investment portfolio that outperforms the S&P Broad Crypto Digital Market Index. Due to the expansive nature and copious number of investable assets in the Crypto space, it can become quite complex, since there are a number of variables that need to be taken into condieration while investing. This model and future platform, provide a safe option for investors to gain exposure to these markets while outperforming the SPCBDM.
+This research exercise was conducted in order to understand if we can create a model to build an investment portfolio that outperforms the S&P Broad Crypto Digital Market Index. Due to the expansive nature and copious number of investable assets in the Crypto space, and the number of variables that need to be taken into condieration while investing, it can become complex. This model and future platform, provide a safe option for investors to gain exposure to these markets while outperforming the SPCBDM.
 
 Our idea was to understand if a combination of 2 sets of Crypto Assets produced better returns than just 1 set of Coins/Assets, without drastically increasing volatility and skewing the Risk profile of the portfolio.
 
-In addition to the old/famous/veteran coins that most people have heard of in the Cryptocurrency space, we wanted to see if Analyzing protocols in a rapidly growing DeFi sector provided some insights/value and improved our potential returns. DeFi is a rapidly growing sector within the CryptoCurrency space that has grown from about 500Million to 150Billion in 2 years. The crypto market as a whole has been in a downtrend for the better part of the last year and we wanted to see the effect of including some variety of undervalued coins into our portfolio and establish our findings.  
+In addition to the veteran coins that most people have heard of in the Cryptocurrency space, we wanted to see if Analyzing protocols in a rapidly growing DeFi sector provided some insights/value and improved our potential returns. DeFi is a rapidly growing sector within the CryptoCurrency space that has grown from about 500Million to 150Billion in 2 years. The crypto market as a whole has been in a downtrend for the better part of the last year and we wanted to see the effect of including some variety of undervalued coins into our portfolio and establish our findings.  
 
 Please note this model pulls live prices, therefore prices may vary each time you run it.
 _______________________________________________________________________________________________________________________________
@@ -34,9 +34,9 @@ ________________________________________________________________________________
 
 **Installation Guide**
 
-Most of the libraries listed above were part of the base applications that were installed with the Python version listed above; However, there were some individual packages and API's that needed to be installed. One can reference the Pip Package Installation Website for further support:
+Most of the libraries listed above were part of the base applications that were installed with the Python version listed above. However, there are some individual packages and API's that need to be installed. One can refer to the Pip Package Installation Website for further support:
 https://packaging.python.org/en/latest/tutorials/installing-packages/#ensure-you-can-run-python-from-the-command-line
-_______________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________
 **Application of the Model: **
 
 Research: 
@@ -68,7 +68,6 @@ We conducted analysis for Coinset A (Veteran Coins), Coinset B (DeFi Coins) & Co
 - Correlation
 - BackTesting
 - MonteCarlo Simulation
-
 __________________________________________________________________________________________________________________________________
 **Contributors & Duties: **
 
@@ -79,7 +78,6 @@ Code - Kfir | Aarchit | David
 Presentation - Aliza
 Speaking Points - Aliza | Donte
 ________________________________________________________________________________________________________________________________
-
 **Licenses: **
 
 No licenses were used for this project
