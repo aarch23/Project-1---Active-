@@ -2,7 +2,6 @@
 
 Prezi: https://prezi.com/p/edit/ysu92emscofq/
 
-
 **Overview**
 
 This research exercise was done in order to understand if we could create an model to build an investment portfolio that outperforms the S&P Broad Crypto Digital Market Index. Due to the expansive nature and sheer *large/massive* number of investable assets in the Crypto space, it can get quite complex, since there are many variables that need to be taken into account when investing. Our model and future platform, provide a safe option for investors to gain exposure to these markets while **outperforming the *Main market index*/SPCBDM ? **
@@ -10,7 +9,7 @@ This research exercise was done in order to understand if we could create an mod
 Our idea was to understand if a combination of 2 sets of Crypto Assets produced better returns than just 1 set of Coins/Assets, without drastically increasing volatility and skewing the Risk profile of the portfolio.
 
 In addition to the old/famous/veteran coins that most people have heard of in the Cryptocurrency space, we wanted to see if Analyzing protocols in a rapidly growing DeFi sector provided some insights/value and improved our potential returns. DeFi is a rapidly growing sector within the CryptoCurrency space that has grown from about 500Million to 150Billion in 2 years. The crypto market as a whole has been in a downtrend for the better part of the last year and we wanted to see the effect of including some variety of undervalued coins into our portfolio and see what **findings we found??** (This last line needs to be changed/edited lol)  
-_______________________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________
 
 **Technologies**
 
@@ -18,7 +17,7 @@ Our model utilizes Python (v 3.1.0) and the following libaries:
 
 1. pandas 
 2. numpy
-3. pickle
+3. hvplot
 4. os
 5. MCForecastTools
 6. pathlib
@@ -28,11 +27,8 @@ Our model utilizes Python (v 3.1.0) and the following libaries:
 10. dotenv
 11. pandas_datareadr
 12. datetime
-13. plotly
-14. seaborn
-15. matplotlib
-16. hvplot 
-______________________________________________________________________________________________________________________________________________________________________
+13. matplotlib
+__________________________________________________________________________________________________________________________________
 
 **Installation Guide**
 
@@ -71,29 +67,17 @@ We conducted analysis for Coinset A (Veteran Coins), Coinset B (DeFi Coins) & Co
 - BackTesting
 - MonteCarlo Simulation
 
-
-
-
-
-
-
-
-
-
-
-_______________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________
 **Contributors & Duties: **
 
-Aarchit Malhotra:  
-Aliza Naqvi: 
-David Paquiot:
-Donte Thrasher:
-Kfir Bar: 
-_______________________________________________________________________________________________________________________________________________________________________
+Planning - Kfir | Aarchit | Aliza
+Management - Kfir | Aliza
+Project Concept - Kfir | Aarchit
+Code - Kfir | Aarchit | David
+Presentation - Aliza
+Speaking Points - Aliza | Donte
+________________________________________________________________________________________________________________________________
 
 **Licenses: **
 
 No licenses were used for this project
-
-
-
