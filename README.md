@@ -45,7 +45,7 @@ The first step in this process was to ensure that we utilized the relevant API's
   2. DefiLlama API: To access the coins for Coinset B (DeFi Sector Coins)
   3. Yahoo Finance API: To access the historical data for both Coinsets as well as the data for the SPCBDM Index.
 
-Data Cleaning: Sorting out the Datasets to fit our filtering criteria and excluding all coins that do not fit the predefined parameters.
+Data Cleansing: Sort the Datasets to fit our criteria and exclude all coins that do not fit the predefined parameters.
 
 Coinset A (Veteran Coins) Parameters: 
 1. Market Cap > $15 Billion
